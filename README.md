@@ -10,10 +10,14 @@
 
 
 
+<!--
+link
+-->
 
 
-[d1]: 
+[d1]: https://github.com/dailiang18bb/Resume/blob/master/docx/Liang%20Dai%20Resume%20V37.docx
 
 
 
-[p1]:
+
+[p1]:https://github.com/dailiang18bb/Resume/blob/master/pdf/Liang%20Dai%20Resume%20V37.pdf
